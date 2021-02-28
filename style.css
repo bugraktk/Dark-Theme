@@ -1,0 +1,38 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    transition: 1s;
+}
+.dark
+{
+    background-color: #2d3436;
+    transition: 1s;
+}
+.area
+{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#check
+{
+    cursor: pointer;
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+}
+.wh
+{
+    color:#000;
+    transition: 1s;
+}
+.white
+{
+    color: #fff;
+    transition: 1s;
+}
